@@ -1,0 +1,162 @@
+[
+    {
+        "id": 0,
+        "message": "Hi, Welcome. How may I assist you today?"
+    },
+    {
+        "id": 1,
+        "message": "The degree is full-time and internal."
+    },
+    {
+        "id": 2,
+        "message": "The delivery mode is open and distance learning."
+    },
+    {
+        "id": 3,
+        "message": "Lectures are held on weekends."
+    },
+    {
+        "id": 4,
+        "message": "The types of degrees are Electrical and Computer Science Engineering, Agriculture and Plantation Engineering, Textile and Apparel Engineering, Mechanical Engineering, and Civil Engineering."
+    },
+    {
+        "id": 5,
+        "message": "Minimum three S passes for one sitting in AL math’s scheme. Minimum three S passes for one sitting in A/L any scheme for textile and apparel engineering."
+    },
+    {
+        "id": 6,
+        "message": "The Z score does not affect admission to the Open University."
+    },
+    {
+        "id": 7,
+        "message": "There are no selected tests for degrees."
+    },
+    {
+        "id": 8,
+        "message": "There is no selection test for admission to degrees."
+    },
+    {
+        "id": 9,
+        "message": "The degree is online."
+    },
+    {
+        "id": 10,
+        "message": "The open university has no problem, but other universities may be."
+    },
+    {
+        "id": 11,
+        "message": "The open university has no problem, but other universities may be."
+    },
+    {
+        "id": 12,
+        "message": "Yes, it is possible to study the mechatronics degree at the Open University while studying the physical science second-year degree at the conventional university."
+    },
+    {
+        "id": 13,
+        "message": "There may be conflicts between the two degrees during examinations, practical sessions, etc. You can check the activity diary."
+    },
+    {
+        "id": 14,
+        "message": "Yes, you should participate in industrial training."
+    },
+    {
+        "id": 15,
+        "message": "Yes, the university provides opportunities for industrial training."
+    },
+    {
+        "id": 16,
+        "message": "No, you cannot do practical tests in the study center."
+    },
+    {
+        "id": 17,
+        "message": "Yes, you should come to Colombo for your practical."
+    },
+    {
+        "id": 18,
+        "message": "No, the exam is not held only in the Colombo center."
+    },
+    {
+        "id": 19,
+        "message": "Yes, it is possible to face the exam in registered centers."
+    },
+    {
+        "id": 20,
+        "message": "If you have CCS results, you can get an IESL membership."
+    },
+    {
+        "id": 21,
+        "message": "If you have CCS results, you can get an IESL membership."
+    },
+    {
+        "id": 22,
+        "message": "Yes, you can get IESL membership if you do A/L and get CCS results while doing a degree at an open university."
+    },
+    {
+        "id": 23,
+        "message": "No, after completing the foundation course, IESL membership will not be available."
+    },
+    {
+        "id": 24,
+        "message": "You should bring your NIC, two passport-size photos, original education certificates, and full payment of registration."
+    },
+    {
+        "id": 25,
+        "message": "You can join pre-orientation sessions and open-day sessions. You can meet counselors at the registration date and get advice."
+    },
+    {
+        "id": 26,
+        "message": "Yes, it is possible to study for the degree while on the job."
+    },
+    {
+        "id": 27,
+        "message": "Rs. 55,000 should be paid only for registration and 30 credits."
+    },
+    {
+        "id": 28,
+        "message": "The total cost of a degree is around 5 Lax."
+    },
+    {
+        "id": 29,
+        "message": "Please contact the help desk or IT division."
+    },
+    {
+        "id": 30,
+        "message": "If you have completed the minimum qualifications, you can join the degree, and there are no selection tests."
+    },
+    {
+        "id": 31,
+        "message": "Yes, you can continue the degree after returning if you have migrated. You should discuss this with your department."
+    },
+    {
+        "id": 32,
+        "message": "There is one final exam for the year. (Two CAT examinations)"
+    },
+    {
+        "id": 33,
+        "message": "Yes, you can transfer to another degree while studying one degree. You must ask your department and get advice."
+    },
+    {
+        "id": 34,
+        "message": "If the final exams fail, you repeat."
+    },
+    {
+        "id": 35,
+        "message": "Yes, you should discuss this with your department."
+    },
+    {
+        "id": 36,
+        "message": "Yes, you have to come to the Colombo center to register for the degree."
+    },
+    {
+        "id": 37,
+        "message": "Yes, study materials are provided for students."
+    },
+    {
+        "id": 38,
+        "message": "No, OUSL does not have semesters."
+    },
+    {
+        "id": 39,
+        "message": "Yes, you can join the learning activities after the registration is complete."
+    }
+]
